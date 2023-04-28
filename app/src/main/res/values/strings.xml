@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavDrawerSecondInJava</string>
+    <string name="open_naw">Open NavDrawer In Java</string>
+    <string name="close_naw">Close0 NavDrawer In Java</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_telegram">Help Telegram</string>
+    <string name="massage">Massage</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="create_groups">Create Groups</string>
+    <string name="calls">Calls</string>
+    <string name="home">Home</string>
+    <string name="example_name">Example name</string>
+    <string name="example_email_address">example email address</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="massage_fragment">Massage Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="favorites_fragment">Favorites Fragment</string>
+    <string name="create_group_fragment">Create Group Fragment</string>
+    <string name="calls_fragment">Calls Fragment</string>
+</resources>
